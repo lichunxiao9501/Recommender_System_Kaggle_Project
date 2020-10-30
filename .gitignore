@@ -1,0 +1,8 @@
+# ignore data folder
+data/
+
+# ignore checkpoints
+notebooks/.ipynb_checkpoints/
+
+# ignore intermediate output
+output/
